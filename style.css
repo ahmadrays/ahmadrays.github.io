@@ -303,6 +303,7 @@ hr:after {
 .judul-art {
   font-family: "Mukta";
   font-weight: bolder;
+  text-align: left;
 }
 
 .readmore {
