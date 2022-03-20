@@ -1,15 +1,5 @@
 /* =============------------------- Homepage -------------------============= */
 
-@font-face {
-  font-family: "Mukta";
-  src: url(./font/Mukta/Mukta-Medium.ttf);
-}
-
-@font-face {
-  font-family: "Kanit";
-  src: url(./font/Kanit/Kanit-Medium.ttf);
-}
-
 .index {
   background-image: url(https://media.istockphoto.com/videos/bright-light-blue-abstract-background-video-id466111700?s=640x640);
   background-size: cover;
@@ -49,7 +39,6 @@
 
 .font-head {
   font-family: "Mukta";
-  src: url(./font/Mukta/Mukta-Medium.ttf);
   font-size: 120%;
   letter-spacing: 5px;
   line-height: 2;
@@ -67,7 +56,6 @@
 
 .font-foot-head {
   font-family: "Mukta";
-  src: url(./font/Mukta/Mukta-Medium.ttf);
   color: rgb(255, 255, 255);
 }
 
@@ -76,13 +64,11 @@
   right: 90px;
   text-align: center;
   font-family: "Mukta";
-  src: url(./font/Mukta/Mukta-Medium.ttf);
   color: rgb(255, 255, 255);
 }
 
 .font-foot-akhir {
   font-family: "Mukta";
-  src: url(./font/Mukta/Mukta-Medium.ttf);
   color: rgb(255, 255, 255);
 }
 
@@ -98,7 +84,6 @@
 
 .font-foot {
   font-family: "Mukta";
-  src: url(./font/Mukta/Mukta-Medium.ttf);
   font-size: 120%;
   letter-spacing: 5px;
   line-height: 2;
@@ -118,7 +103,6 @@
 
 .font-cr {
   font-family: "Mukta";
-  src: url(./font/Mukta/Mukta-Medium.ttf);
   font-size: 112%;
   color: rgb(255, 255, 255);
   background-color: rgba(20, 20, 20, 0.2);
@@ -156,13 +140,11 @@
 
 .font-info {
   font-family: "Mukta";
-  src: url(./font/Mukta/Mukta-Medium.ttf);
   font-size: 50px;
 }
 
 .isi-info {
   font-family: "Mukta";
-  src: url(./font/Mukta/Mukta-Medium.ttf);
   font-size: 19px;
   text-align: justify;
 }
@@ -175,7 +157,6 @@
 .font-fih {
   text-align: center;
   font-family: "Kanit";
-  src: url(./font/Kanit/Kanit-Medium.ttf);
   font-weight: bolder;
   font-size: 50px;
   color: rgb(0, 0, 0);
@@ -184,7 +165,6 @@
 .font-fih-isi {
   text-align: center;
   font-family: "Kanit";
-  src: url(./font/Kanit/Kanit-Medium.ttf);
   font-weight: unset;
   font-size: 18.5px;
   color: rgb(0, 0, 0);
@@ -199,13 +179,11 @@
 
 .font-isi-testi {
   font-family: "Mukta";
-  src: url(./font/Mukta/Mukta-Medium.ttf);
   font-size: medium;
 }
 
 .font-foot-testi {
   font-family: "Mukta";
-  src: url(./font/Mukta/Mukta-Medium.ttf);
   font-weight: bolder;
 }
 
@@ -235,13 +213,11 @@ hr:after {
 
   .font-info {
     font-family: "Mukta";
-    src: url(./font/Mukta/Mukta-Medium.ttf);
     font-size: 40px;
   }
 
   .isi-info {
     font-family: "Mukta";
-    src: url(./font/Mukta/Mukta-Medium.ttf);
     font-size: 15px;
     text-align: justify;
   }
@@ -251,7 +227,6 @@ hr:after {
     right: 45px;
     text-align: left;
     font-family: "Mukta";
-    src: url(./font/Mukta/Mukta-Medium.ttf);
     color: rgb(255, 255, 255);
   }
   .bg-foot {
@@ -268,7 +243,6 @@ hr:after {
   .font-fih {
     text-align: center;
     font-family: "Kanit";
-    src: url(./font/Kanit/Kanit-Medium.ttf);
     font-weight: bolder;
     font-size: 43px;
     color: rgb(0, 0, 0);
@@ -277,7 +251,6 @@ hr:after {
   .font-fih-isi {
     text-align: center;
     font-family: "Kanit";
-    src: url(./font/Kanit/Kanit-Medium.ttf);
     font-weight: unset;
     font-size: 15.7px;
     color: rgb(0, 0, 0);
@@ -289,13 +262,11 @@ hr:after {
 
   .font-isi-testi {
     font-family: "Mukta";
-    src: url(./font/Mukta/Mukta-Medium.ttf);
     font-size: 15px;
   }
 
   .font-foot-testi {
     font-family: "Mukta";
-    src: url(./font/Mukta/Mukta-Medium.ttf);
     font-weight: bolder;
     font-size: 17px;
     padding-bottom: 10px;
@@ -318,7 +289,6 @@ hr:after {
 
 .header-art {
   font-family: "Kanit";
-  src: url(./font/Kanit/Kanit-Medium.ttf);
   padding-left: 5%;
   padding-top: 1%;
   font-weight: bold;
@@ -332,7 +302,6 @@ hr:after {
 
 .judul-art {
   font-family: "Mukta";
-  src: url(./font/Mukta/Mukta-Medium.ttf);
   font-weight: bolder;
 }
 
@@ -422,13 +391,11 @@ footer .social-media p {
 }
 .head-bn {
   font-family: "Kanit";
-  src: url(./font/Kanit/Kanit-Medium.ttf);
   font-weight: bolder;
 }
 
 .font-head-about {
   font-family: "Kanit";
-  src: url(./font/Kanit/Kanit-Medium.ttf);
   color: rgb(211, 255, 185);
   font-size: 20px;
   text-align: left;
@@ -438,7 +405,6 @@ footer .social-media p {
 
 .font-isi-about {
   font-family: "Mukta";
-  src: url(./font/Mukta/Mukta-Medium.ttf);
   color: white;
   font-size: 15.5px;
   text-align: justify;
@@ -446,7 +412,6 @@ footer .social-media p {
 }
 .font-info-left {
   font-family: "Kanit";
-  src: url(./font/Kanit/Kanit-Medium.ttf);
   color: rgb(20, 255, 243);
   font-size: 30px;
   text-align: center;
@@ -456,7 +421,6 @@ footer .social-media p {
 
 .font-info-right {
   font-family: "Kanit";
-  src: url(./font/Kanit/Kanit-Medium.ttf);
   color: rgb(20, 255, 243);
   font-size: 30px;
   text-align: center;
